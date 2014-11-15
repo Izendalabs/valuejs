@@ -1,0 +1,19 @@
+{
+    "Fields": [
+        {
+            "Name": "ShipCountry",
+            "Alias": "Country"
+        },
+        {
+            "Name": "ShipCity"
+        },
+        {
+            "Name": "OrderID",
+            "Summarize": "Auto"
+        },
+        {
+            "Name": "Freight",
+            "Summarize": "SUM"
+        }
+    ]
+}
