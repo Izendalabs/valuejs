@@ -5,15 +5,10 @@
             "Alias": "Country"
         },
         {
-            "Name": "ShipCity"
-        },
-        {
-            "Name": "OrderID",
-            "Summarize": "Auto"
-        },
-        {
-            "Name": "Freight",
-            "Summarize": "SUM"
+            "Name": "ShipCity".
+            "Alias": "City",
+            "Summarize":"COUNT"
         }
+        
     ]
 }

@@ -11,6 +11,10 @@
         {
             "Name": "OrderID",
             "Summarize": "COUNT"
+        },
+        {
+            "Name": "Freight",
+            "Summarize":"SUM"
         }
     ]
 }
